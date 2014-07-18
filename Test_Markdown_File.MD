@@ -1,5 +1,5 @@
-## secondary heading
-### tertiary heading
-* first list
-** second list
-*** third list
+## Secondary heading
+### Tertiary heading
+* First list
+** Second list
+*** Third list
